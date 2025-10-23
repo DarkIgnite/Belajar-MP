@@ -1,0 +1,25 @@
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .kotak {
+            display: flex;
+            width: 150px;
+            height: 150px;
+            border: 2px solid black;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            width: 500px;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+
+        }
